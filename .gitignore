@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+CV
+scraper/scraper/test.py
+scraper/scraper/test2.py
+output.xlsx
+test.py
+.temp_extract
