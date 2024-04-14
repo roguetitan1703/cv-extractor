@@ -6,3 +6,5 @@ scraper/scraper/test2.py
 output.xlsx
 test.py
 .temp_extract
+scraper.log
+main.log
